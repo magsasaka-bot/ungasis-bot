@@ -32,8 +32,8 @@ so if you want create multiple providers you need to put multiple proxy there.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/reno-ai2024/reno-oasis.git
-   cd reno-oasis
+   git clone https://github.com/magsasaka-bot/ungasis-bot.git
+   cd ungasis-bot
    ```
 
 2. Install dependencies:
