@@ -23,7 +23,7 @@ AI inference powered by distributed compute
 
 - **NPM**: Ensure you have npm installed.
 
-put your proxy in file `proxy.txt` format `http://username:pass@ip:port` 1 proxy for 1 provider
+put your proxy in file `proxy.txt` format socks5://username:password@hostname:port` 1 proxy for 1 provider
 
 so if you want create multiple providers you need to put multiple proxy there.
 
