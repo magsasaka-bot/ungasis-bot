@@ -53,7 +53,7 @@ so if you want create multiple providers you need to put multiple proxy there.
    nano accounts.txt
    ```
 
-5. put your proxy to `proxy.txt`
+5. put your proxy to `proxy.txt` format `socks5://username:password@hostname:port`
 
    ```bash
    nano proxy.txt
