@@ -42,7 +42,7 @@ so if you want create multiple providers you need to put multiple proxy there.
    npm install
    ```
    
-3. Install socks support
+3. Install socks
    ```bash
    npm install socks-proxy-agent
    ```
